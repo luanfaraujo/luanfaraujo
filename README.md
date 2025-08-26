@@ -1,5 +1,5 @@
 # Luan Ferreira Araujo | Data Analyst
-Leveraging a Master's in English and a background in academic research to transform data into compelling narratives. My expertise lies in applying a researcher's rigor, bringing critical analysis, methodological design, and clear communication to the data analytics lifecycle. I am focused on unlocking the stories within complex datasets and clarifying them into actionable insights for diverse audiences.
+Leveraging a Master's in English and a background in teaching and academic research to transform data into compelling narratives. My expertise lies in applying a researcher's rigor, bringing critical analysis, methodological design, and clear communication to the data analytics lifecycle. I am focused on unlocking the stories within complex datasets and clarifying them into actionable insights for diverse audiences.
 
 ---
 
