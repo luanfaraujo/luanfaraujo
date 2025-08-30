@@ -12,7 +12,7 @@ Leveraging a Master's in English and a background in teaching and academic resea
 
 ## Projects and Case Studies
 
-### 1. Cyclistic Case Study
+### 1. Cyclistic Case Study (https://github.com/luanfaraujo/cyclistic-case-study-en)
 - **Description:** This study analyzes yearly Divvy bike-share data (June 2024 to May 2025) to identify behavioral differences between casual riders and annual members. The goal is to develop targeted marketing strategies to convert casual users into members, increasing long-term revenue.
 - **Tools used:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Key insights**: Casual riders primarily use bikes for leisure and tourism on weekends, while members use them for daily commuting. Based on these insights, three data-driven recommendations are proposed.
