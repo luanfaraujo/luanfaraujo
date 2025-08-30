@@ -7,7 +7,6 @@ Leveraging a Master's in English and a background in teaching and academic resea
 
 - **Email:** ferreiraaraujoluan@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/luanfaraujo/
-- **Kaggle:** https://www.kaggle.com/luanferreiraaraujo/code
 
 ---
 
