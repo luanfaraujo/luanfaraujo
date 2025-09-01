@@ -26,6 +26,9 @@ Leveraging a Master's in English and a background in teaching and academic resea
 - **Tools used:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Key insights:** Casual riders primarily use bikes for leisure and tourism on weekends, while members use them for daily commuting. Based on these insights, three data-driven recommendations are proposed.
 
+#### 2. LoL Champion Presence x Worlds Winners (in progress)
+- **Description:** In many live-service games, developers make "balancing patches", aiming to bring down the power of overperforming characters/equipment and make weaker ones stronger, to promote competitiveness and increase player choice. In competitive play, the strongest choices and the most dominant strategies are commonly called "the meta". This study investigates whether professional League of Legends teams that pick the meta champions of the year win the World Championship of the same period.
+
 ---
 
 ### 🛠️ Technical Skills
@@ -70,6 +73,10 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 - **Descrição:** Este estudo analisa dados anuais de bicicletas compartilhadas da Divvy para identificar diferenças comportamentais entre ciclistas casuais e membros anuais. O objetivo é desenvolver estratégias de marketing direcionadas para converter usuários casuais em membros, aumentando a receita de longo prazo.
 - **Ferramentas utilizadas:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Principais insights:** Ciclistas casuais usam bicicletas principalmente para lazer e turismo nos finais de semana, enquanto os membros as usam para deslocamento diário. Com base nessas descobertas, três recomendações orientadas por dados são propostas.
+
+
+#### 2. Presença de Campeões LoL x Vencedores do Mundial (em progresso)
+- **Descrição:** 
 
 ---
 
