@@ -59,7 +59,7 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 - **Email:** ferreiraaraujoluan@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/luanfaraujo/](https://www.linkedin.com/in/luanfaraujo/)
