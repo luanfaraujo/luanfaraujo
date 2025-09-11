@@ -20,14 +20,17 @@ Leveraging a Master's in English and a background in teaching and academic resea
 
 ### 📂 Projects and Case Studies
 
-#### 1. Cyclistic Case Study
+#### 1. Cyclistic Case Study (Google Data Analytics Certificate)
 - **Link:** [https://github.com/luanfaraujo/cyclistic-case-study-en](https://github.com/luanfaraujo/cyclistic-case-study-en)
 - **Description:** This study analyzes yearly Divvy bike-share data to identify behavioral differences between casual riders and annual members. The goal is to develop targeted marketing strategies to convert casual users into members, increasing long-term revenue.
 - **Tools used:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Key insights:** Casual riders primarily use bikes for leisure and tourism on weekends, while members use them for daily commuting. Based on these insights, three data-driven recommendations are proposed.
 
-#### 2. LoL Champion Presence x Worlds Winners (in progress)
-- **Description:** In many live-service games, developers make "balancing patches", aiming to bring down the power of overperforming characters/equipment and make weaker ones stronger, to promote competitiveness and increase player choice. In competitive play, the strongest choices and the most dominant strategies are commonly called "the meta". This study investigates whether professional League of Legends teams that pick the meta champions of the year win the World Championship of the same period.
+#### 2. Comparative Analysis of Software Feature Bundles (Independent study)
+- **Link:** (insert)
+- **Description:** Extracted JSON data from an API and applied ETL principles using PowerQuery to clean, transform, and enrich feature lists from four different bundles. Built a categorized master dataset, used Excel PivotTables and lookups to analyze overlaps and unique features, and delivered structured insights to support team decision-making. (Dataset source: Minecraft modpacks, treated as software feature bundles.)
+- **Tools used:** Microsoft Excel
+- **Results:** The analysis and Excel files that resulted from this project enabled the group to collaboratively select the bundle that best matched their needs.
 
 ---
 
@@ -35,7 +38,7 @@ Leveraging a Master's in English and a background in teaching and academic resea
 
 - **Languages:** SQL, Python (Pandas), R
 - **Visualization:** Tableau
-- **Databases:** BigQuery
+- **Databases:** BigQuery, SQLite
 - **Spreadsheets:** Microsoft Excel, Google Sheets
 - **Slides:** Microsoft PowerPoint, Google Slides
 
@@ -68,15 +71,18 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 
 ### 📂 Projetos e Estudos de Caso
 
-#### 1. Estudo de Caso Cyclistic
+#### 1. Estudo de Caso Cyclistic (Certificado Análise de Dados Google)
 - **Link:** [https://github.com/luanfaraujo/cyclistic-case-study-ptbr](https://github.com/luanfaraujo/cyclistic-case-study-ptbr)
 - **Descrição:** Este estudo analisa dados anuais de bicicletas compartilhadas da Divvy para identificar diferenças comportamentais entre ciclistas casuais e membros anuais. O objetivo é desenvolver estratégias de marketing direcionadas para converter usuários casuais em membros, aumentando a receita de longo prazo.
 - **Ferramentas utilizadas:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Principais insights:** Ciclistas casuais usam bicicletas principalmente para lazer e turismo nos finais de semana, enquanto os membros as usam para deslocamento diário. Com base nessas descobertas, três recomendações orientadas por dados são propostas.
 
 
-#### 2. Presença de Campeões LoL x Vencedores do Mundial (em progresso)
-- **Descrição:** 
+#### 2. Análise Comparativa de Conjuntos de Recursos de Software (Estudo Independente)
+- **Link:** (inserir)  
+- **Descrição:** Extração de dados JSON de uma API e aplicação de princípios de ETL usando PowerQuery para limpar, transformar e enriquecer listas de recursos de quatro conjuntos diferentes. Criação de uma base de dados mestre categorizada, utilização de PivotTables e XLOOKUP no Excel para analisar sobreposições e recursos exclusivos, e fornecimento de insights estruturados para apoiar a tomada de decisão da equipe. (Fonte dos dados: modpacks de Minecraft, tratados como conjuntos de recursos de software.)  
+- **Ferramentas utilizadas:** Microsoft Excel  
+- **Resultados:** A análise e os arquivos do Excel resultantes deste projeto permitiram que o grupo selecionasse de forma colaborativa o conjunto que melhor atendia às suas necessidades.
 
 ---
 
@@ -84,7 +90,7 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 
 - **Linguagens:** SQL, Python (Pandas), R
 - **Visualização:** Tableau
-- **Bancos de Dados:** BigQuery
+- **Bancos de Dados:** BigQuery, SQLite
 - **Planilhas:** Microsoft Excel, Google Sheets
 - **Apresentações:** Microsoft PowerPoint, Google Slides
 
