@@ -27,7 +27,7 @@ Leveraging a Master's in English and a background in teaching and academic resea
 - **Key insights:** Casual riders primarily use bikes for leisure and tourism on weekends, while members use them for daily commuting. Based on these insights, three data-driven recommendations are proposed.
 
 #### 2. Comparative Analysis of Software Feature Bundles (Independent study)
-- **Link:** (insert)
+- **Link:** [https://github.com/luanfaraujo/modpack-comparison-en](https://github.com/luanfaraujo/modpack-comparison-en)
 - **Description:** Extracted JSON data from an API and applied ETL principles using PowerQuery to clean, transform, and enrich feature lists from four different bundles. Built a categorized master dataset, used Excel PivotTables and lookups to analyze overlaps and unique features, and delivered structured insights to support team decision-making. (Dataset source: Minecraft modpacks, treated as software feature bundles.)
 - **Tools used:** Microsoft Excel
 - **Results:** The analysis and Excel files that resulted from this project enabled the group to collaboratively select the bundle that best matched their needs.
@@ -79,7 +79,7 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 
 
 #### 2. Análise Comparativa de Conjuntos de Recursos de Software (Estudo Independente)
-- **Link:** (inserir)  
+- **Link:** [https://github.com/luanfaraujo/modpack-comparison-ptbr](https://github.com/luanfaraujo/modpack-comparison-ptbr)
 - **Descrição:** Extração de dados JSON de uma API e aplicação de princípios de ETL usando PowerQuery para limpar, transformar e enriquecer listas de recursos de quatro conjuntos diferentes. Criação de uma base de dados mestre categorizada, utilização de PivotTables e XLOOKUP no Excel para analisar sobreposições e recursos exclusivos, e fornecimento de insights estruturados para apoiar a tomada de decisão da equipe. (Fonte dos dados: modpacks de Minecraft, tratados como conjuntos de recursos de software.)  
 - **Ferramentas utilizadas:** Microsoft Excel  
 - **Resultados:** A análise e os arquivos do Excel resultantes deste projeto permitiram que o grupo selecionasse de forma colaborativa o conjunto que melhor atendia às suas necessidades.
