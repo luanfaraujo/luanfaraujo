@@ -33,10 +33,9 @@ Leveraging a Master's in English and a background in teaching and academic resea
 - **Results:** The analysis and Excel files that resulted from this project enabled the group to collaboratively select the bundle that best matched their needs.
 
 #### 3. Automated E-Commerce Price Tracker (Independent Project)
-
 - **Link**: [https://github.com/luanfaraujo/price-tracker-en](https://github.com/luanfaraujo/price-tracker-en)
 - **Description**: Built an automated web scraping system that collects daily product prices from KaBuM! e-commerce website. Designed a normalized SQLite database to store historical pricing data, implemented anti-bot bypass techniques, and configured Windows Task Scheduler for autonomous daily execution with comprehensive logging.
-- **Tools used**: SQLite3, DB Browser, Python (requests, BeautifulSoup, SQLite3, regex), Windows Task Scheduler
+- **Tools used**: SQLite3, DB Browser, Python (requests, SQLite3, regex), Windows Task Scheduler
 - **Key results**: Eliminated manual price checking, created historical database enabling price trend analysis, and built scalable foundation for multi-product monitoring.
 
 ---
@@ -84,19 +83,16 @@ Utilizo um Mestrado em Inglês e experiência em ensino e pesquisa acadêmica pa
 - **Ferramentas utilizadas:** Python (Pandas), Tableau, Jupyter Notebook.
 - **Principais insights:** Ciclistas casuais usam bicicletas principalmente para lazer e turismo nos finais de semana, enquanto os membros as usam para deslocamento diário. Com base nessas descobertas, três recomendações orientadas por dados são propostas.
 
-
 #### 2. Análise Comparativa de Conjuntos de Recursos de Software (Projeto Independente)
 - **Link:** [https://github.com/luanfaraujo/modpack-comparison-ptbr](https://github.com/luanfaraujo/modpack-comparison-ptbr)
 - **Descrição:** Extração de dados JSON de uma API e aplicação de princípios de ETL usando PowerQuery para limpar, transformar e enriquecer listas de recursos de quatro conjuntos diferentes. Criação de uma base de dados mestre categorizada, utilização de PivotTables e XLOOKUP no Excel para analisar sobreposições e recursos exclusivos, e fornecimento de insights estruturados para apoiar a tomada de decisão da equipe. (Fonte dos dados: modpacks de Minecraft, tratados como conjuntos de recursos de software.)  
 - **Ferramentas utilizadas:** Microsoft Excel  
 - **Resultados:** A análise e os arquivos do Excel resultantes deste projeto permitiram que o grupo selecionasse de forma colaborativa o conjunto que melhor atendia às suas necessidades.
 
-
 #### 3. Rastreador Automático de Preços de E-Commerce (Projeto Independente)
-
 - **Link**: [https://github.com/luanfaraujo/price-tracker-ptbr](https://github.com/luanfaraujo/price-tracker-ptbr)
 - **Descrição**: Construí um sistema automatizado de web scraping que coleta preços diários de produtos do site de e-commerce KaBuM!. Projetei um banco de dados SQLite normalizado para armazenar dados históricos de preços, implementei técnicas de contorno de anti-bot e configurei o Agendador de Tarefas do Windows para execução diária autônoma com logging abrangente.
-- **Ferramentas utilizadas**: SQLite3, DB Browser, Python (requests, BeautifulSoup, SQLite3, regex), Agendador de Tarefas do Windows
+- **Ferramentas utilizadas**: SQLite3, DB Browser, Python (requests, SQLite3, regex), Agendador de Tarefas do Windows
 - **Principais resultados**: Eliminei a verificação manual de preços, criei banco de dados histórico possibilitando análise de tendências de preços e construí base escalável para monitoramento de múltiplos produtos.
 
 ---
